@@ -38,8 +38,6 @@ public class Main {
         encodingConverter.EConverter("D:\\Java project\\Input-Output Laba#6\\TextInput.txt","D:\\Java project\\Input-Output Laba#6\\TextOutput.txt", "Cp1251","Windows-1251" );
 
 
-//        english english = new english();
-//        english.loadFromFile("D:\\Java project\\Input-Output Laba#6\\TextInput.txt", "D:\\Java project\\Input-Output Laba#6\\TextOutput.txt");
 
 
     }
